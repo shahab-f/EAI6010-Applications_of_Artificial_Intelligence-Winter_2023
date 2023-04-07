@@ -1,1 +1,3 @@
-### To access the projects, kindly refer to the branches.
+### A* Algorithm Implementation for Path Planning in 2D Grid-based Maps
+### ABSTRACT
+This study presents an implementation of the A* algorithm for finding the shortest path between two points in a 2D grid-based map using numpy arrays. The algorithm uses a heuristic function to estimate the distance between the points and outputs a list of coordinates for the optimal path, which is visualized using matplotlib. In the second implementation, diagonal moves are added as neighbors, and the code is modified to randomly generate start and goal points for simulation. The path is displayed for each run in a loop.
